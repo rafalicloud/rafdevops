@@ -15,3 +15,6 @@ Git and GitHub are not the same thing. Git is an open-source, version control so
 
 Stages of Git
 There are three satges of git VCS ...working directory, staging area and local repository. Git has three main states that code files can reside in: modified, staged, and committed.
+
+3 methods of git reset
+reset is the command we use when we want to move the repository back to a previous commit. The options or methods of git reset are --soft, --mixed , and --hard.
