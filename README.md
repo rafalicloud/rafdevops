@@ -12,3 +12,6 @@ Cloud computing is the delivery of computing resources, such as IT infrastructur
 
 Difference b/w Git & Github
 Git and GitHub are not the same thing. Git is an open-source, version control software installed on local / client side system and is developed on the Linux operating system; GitHub is a web based service include tools which integrate with VCS like Git and serves as a remote repository for collaborstion. You do not need GitHub to use git, but you cannot use GitHub without using VCS like git.
+
+Stages of Git
+There are three satges of git VCS ...working directory, staging area and local repository. Git has three main states that code files can reside in: modified, staged, and committed.
