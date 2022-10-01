@@ -18,3 +18,5 @@ There are three satges of git VCS ...working directory, staging area and local r
 
 3 methods of git reset
 reset is the command we use when we want to move the repository back to a previous commit. The options or methods of git reset are --soft, --mixed , and --hard.
+
+Hosted this repo on GitHub Pages:  https://rafalicloud.github.io/rafdevops/
