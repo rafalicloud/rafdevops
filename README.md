@@ -9,3 +9,6 @@ Continuous Deployment takes the process of software develpoment and infra provis
 
 Benefits of Cloud Computing
 Cloud computing is the delivery of computing resources, such as IT infrastructure or data center over the internet. Cloud computing enables businesses to operate from virtually anywhere and with more efficiency. Some benefits of cloud computing include; fast infra readiness & provision, sacalability, high availability, low operational  overhead, mobility, reliability, disaster recovery, and collaboration.
+
+Difference b/w Git & Github
+Git and GitHub are not the same thing. Git is an open-source, version control software installed on local / client side system and is developed on the Linux operating system; GitHub is a web based service include tools which integrate with VCS like Git and serves as a remote repository for collaborstion. You do not need GitHub to use git, but you cannot use GitHub without using VCS like git.
